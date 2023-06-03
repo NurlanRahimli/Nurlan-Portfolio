@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "React-Udemy",
+			"path": "../../../React-Udemy"
+		},
+		{
+			"path": "../../../tailwind-course-projects-main/website-projects/loopstudios"
+		},
+		{
+			"path": "../../../Tailwind-Portfolio"
+		},
+		{
+			"path": "../../../Tailwind-Project"
+		},
+		{
+			"path": "../../../Personal-Portfolio"
+		},
+		{
+			"path": "../../../Plurk-Tailwind"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio-master"
+	}
+}
