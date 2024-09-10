@@ -8,9 +8,9 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Nurlan Rahimli </span>
+            Hi Everyone, I'm <span className="purple">Nurlan Rahimli </span>
             from <span className="purple"> Baku, Azerbaijan.</span>
-            <br />I'm a Front-End developer with more than two years of experience in web development. I'm passionate about creating great user experiences and have a strong understanding of usability and accessibility standards.
+            <br />I'm a Front-End Developer with over 2+ years of experience in web development. I am passionate about creating great user experiences and am well versed in usability and accessibility standards.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 // import myImg from "../../Assets/avatar.svg";
-import myImg from "../../Assets/myAvatar.png"
+import myImg from "../../Assets/home2.png"
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -19,16 +19,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I can work as many hours as you want 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> HTML, CSS, Bootstrap, Javascript, Jquerry, Tailwind.css and React. </b>
-              </i>
+            I'm an experienced Front End Web Developer with knowledge of <b className="purple">React.js, Tailwind.css, JavaScript, jQuery, HTML, CSS, Bootstrap</b>, working with API, git, social network integration, algorithmic thinking, responsiveness, scoring a job interview.
               <br />
               <br />
               <i>
-                I am a positive, enthusiastic and competent <b className="purple">Web Developer</b> who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role.
+              Totally, I have 2+ years of experience in software development, especially web applications. With a passion for creating visually appealing and user-friendly websites, I’m confident in my ability to deliver impressive results. Let's get in touch and discuss how my skills can help your organization.
               </i>
               <br />
               <br />
